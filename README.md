@@ -1,5 +1,6 @@
+<img width="500" height="281" alt="kotonoha no niwa summer GIF" src="https://github.com/user-attachments/assets/8e9d758c-519a-42ec-9e6e-31c08666e808" />
 
-Hi there! 👋 I'm Diego Susa
+# Hi there! 👋 I'm Diego Susa
 
 🎓 Systems Engineering Graduate (Degree Candidate | Graduation: September 2026)
 ☁️ AWS Certified Cloud Practitioner & AI Practitioner
@@ -7,7 +8,8 @@ Hi there! 👋 I'm Diego Susa
 
 I'm passionate about building scalable applications, learning new technologies, and solving real-world problems through software. I enjoy working with cloud platforms, backend development, databases, and continuously expanding my technical skills.
 
-🚀 About Me
+### 🚀 About Me
+
 🎓 Systems Engineering Graduate from Politécnico Grancolombiano
 ☁️ AWS Certified Cloud Practitioner
 🤖 AWS Certified AI Practitioner
@@ -18,84 +20,33 @@ Software Development
 Cloud Computing
 Backend Development
 Data & AI
-🛠️ Tech Stack
-Languages
-Backend & Frameworks
-Flask
-REST APIs
-Cloud
-Amazon Web Services (AWS)
-Microsoft Azure
-Supabase
-Databases
-PostgreSQL
-MySQL
-Tools
-Git
-GitHub
-Postman
-📜 Certifications
+
+### 🛠️ Tech Stack
+
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Backend
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+
+### 📜 Certifications
 
 🏆 AWS Certified AI Practitioner (2026)
-
 🏆 AWS Certified Cloud Practitioner (2026)
-
 🏆 Scrum Fundamentals Certified (SCRUMstudy)
 
-🚀 Featured Projects
-🍽️ BuonQ – Restaurant Reservation System
-
-Cloud-based restaurant reservation platform deployed on Microsoft Azure.
-
-Technologies
-
-Flask
-Azure Static Web Apps
-Azure App Service
-Azure SQL Database
-JavaScript
-HTML
-CSS
-SendGrid
-
-🔗 Repository:
-https://github.com/DiegoSusa/azure-flask-deployment
-
-🎮 Wordshake Capi
-
-A full-stack educational web application built with React and Flask.
-
-Technologies
-
-React
-Vite
-Flask
-Python
-Supabase
-
-🔗 Repository:
-https://github.com/DiegoSusa/Wordshake-Capi2
-
-💼 Professional Experience
-Academic Mathematics Tutor
-
-Politécnico Grancolombiano
-
-Helped university students strengthen mathematical reasoning and problem-solving skills.
-Conducted one-on-one and group tutoring sessions using adaptive teaching strategies.
-🌍 Languages
-
-🇪🇸 Spanish — Native
-
-🇺🇸 English — B1+ (Intermediate)
-
-📈 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DiegoSusa&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSusa&layout=compact&theme=tokyonight" height="170"/> </p>
-
-📫 Let's Connect
-💼 LinkedIn
-📧 Email
-🌐 Portfolio (Coming Soon)
-
-"Always learning, always building." 🚀
+### "Always learning, always building." 🚀
